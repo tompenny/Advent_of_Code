@@ -1,3 +1,3 @@
-# Advent_of_Code2020
+# Advent_of_Code
 
-Scripts for the Advent of Code 2020 competition
+Scripts for the Advent of Code
